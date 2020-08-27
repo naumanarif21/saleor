@@ -14,8 +14,7 @@ All notable, unreleased changes to this project will be documented in this file.
 - Adyen drop-in integration - #5914 by @korycins, @IKarbowiak
 - Add `change_currency` command - #6016 by @maarcingebala
 - Send a confirmation email when the order is canceled or refunded - #6017
-- Separate sale date from publication date - #6030 by @IKarbowiak
-- Add visible in listings flag to product - #6054 by @IKarbowiak
+- Add searchable and available for purchase flags to product - #6060 by @IKarbowiak
 
 ### Breaking Changes
 
